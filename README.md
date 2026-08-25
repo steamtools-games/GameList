@@ -8,15 +8,17 @@
 
 An open-source directory and automated manifest generator for **SteamTools (Watt Toolkit)**. Generate clean `.lua` scripts, `key.vdf` depot keys, and application manifests for any Steam game.
 
-[English](#english) | [中文说明](#中文说明)
+---
+
+### 🌐 Read this in your language:
+**[English](README.md)** | **[简体中文](README_zh.md)** | **[Русский](README_ru.md)** | **[Türkçe](README_tr.md)** | **[Español](README_es.md)** | **[Français](README_fr.md)** | **[Português (Brasil)](README_pt-BR.md)**
 
 ---
 
-<a name="english"></a>
 ## 🌟 Quick Links
 
 * 🌐 **Web Generator**: [https://steamtools.games/](https://steamtools.games/)
-* 🎮 **Curated Games Catalog**: [https://steamtools.games/games](https://steamtools.games/games)
+* 🎮 **Curated 99+ Games Catalog**: [https://steamtools.games/games](https://steamtools.games/games)
 * 💻 **Client Setup (Windows / macOS / Linux)**: [https://steamtools.games/install](https://steamtools.games/install)
 * 📖 **How It Works**: [https://steamtools.games/how-it-works](https://steamtools.games/how-it-works)
 * 🔌 **Developer REST API**: [https://steamtools.games/developers](https://steamtools.games/developers)
@@ -70,25 +72,6 @@ curl -s -X POST "https://steamtools.games/api/generate" \
 ```
 
 Full OpenAPI 3.1 specification available at [https://steamtools.games/developers](https://steamtools.games/developers).
-
----
-
-<a name="中文说明"></a>
-## 🇨🇳 中文说明
-
-本仓库提供 **SteamTools (Watt Toolkit)** 所需的热门游戏清单数据与全自动化 Manifest / Lua 生成器支持。
-
-### 🌟 核心导航
-* 🌐 **在线生成器官网**：[https://steamtools.games/zh](https://steamtools.games/zh)
-* 🎮 **99 款热门游戏库大厅**：[https://steamtools.games/zh/games](https://steamtools.games/zh/games)
-* 💻 **客户端多平台安装指南 (Win/Mac/Linux)**：[https://steamtools.games/zh/install](https://steamtools.games/zh/install)
-* 📖 **工作原理与排错教程**：[https://steamtools.games/zh/how-it-works](https://steamtools.games/zh/how-it-works)
-* 🔌 **开发者 OpenAPI / REST 接口**：[https://steamtools.games/zh/developers](https://steamtools.games/zh/developers)
-
-### 快速使用三步法
-1. 打开 [SteamTools.games](https://steamtools.games/zh)，输入任意 Steam 游戏名称或 App ID；
-2. 点击 **下载 ZIP**，获取包含 `{appId}_public.lua`、`key.vdf` 与使用说明的完整包；
-3. 将解压出来的 `.lua` 和 `key.vdf` 放入 SteamTools 安装目录，重启客户端即可。
 
 ---
 
