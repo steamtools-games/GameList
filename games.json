@@ -1,0 +1,803 @@
+{
+  "generatedAt": "2026-08-25T07:23:54.776Z",
+  "source": "hand-curated baseline + scripts/build-popular-games.mjs",
+  "count": 99,
+  "total": 99,
+  "missing": [],
+  "failed": [],
+  "notFound": [],
+  "games": [
+    {
+      "appId": 10,
+      "name": "Counter-Strike",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 1, 2000"
+    },
+    {
+      "appId": 70,
+      "name": "Half-Life",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 19, 1998"
+    },
+    {
+      "appId": 220,
+      "name": "Half-Life 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 16, 2004"
+    },
+    {
+      "appId": 240,
+      "name": "Counter-Strike: Source",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 1, 2004"
+    },
+    {
+      "appId": 320,
+      "name": "Half-Life 2: Deathmatch",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 1, 2004"
+    },
+    {
+      "appId": 340,
+      "name": "Half-Life 2: Lost Coast",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Oct 27, 2005"
+    },
+    {
+      "appId": 360,
+      "name": "Half-Life Deathmatch: Source",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "May 1, 2006"
+    },
+    {
+      "appId": 380,
+      "name": "Half-Life 2: Episode One",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Jun 1, 2006"
+    },
+    {
+      "appId": 400,
+      "name": "Portal",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "10 Oct, 2007"
+    },
+    {
+      "appId": 440,
+      "name": "Team Fortress 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "10 Oct, 2007"
+    },
+    {
+      "appId": 500,
+      "name": "Left 4 Dead",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "Nov 17, 2008"
+    },
+    {
+      "appId": 550,
+      "name": "Left 4 Dead 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "17 Nov, 2009"
+    },
+    {
+      "appId": 570,
+      "name": "Dota 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "9 Jul, 2013"
+    },
+    {
+      "appId": 620,
+      "name": "Portal 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "19 Apr, 2011"
+    },
+    {
+      "appId": 730,
+      "name": "Counter-Strike 2",
+      "type": "game",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "27 Sep, 2023"
+    },
+    {
+      "appId": 4000,
+      "name": "Garry's Mod",
+      "type": "game",
+      "developer": "Facepunch Studios",
+      "publisher": "Valve",
+      "releaseDate": "Nov 29, 2006"
+    },
+    {
+      "appId": 17300,
+      "name": "Crysis",
+      "type": "game",
+      "developer": "Crytek",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Sep 17, 2008"
+    },
+    {
+      "appId": 17330,
+      "name": "Crysis Warhead®",
+      "type": "game",
+      "developer": "Crytek",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Sep 17, 2008"
+    },
+    {
+      "appId": 17340,
+      "name": "Crysis Warhead®",
+      "type": "game",
+      "developer": "Crytek",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Sep 17, 2008"
+    },
+    {
+      "appId": 17390,
+      "name": "SPORE™",
+      "type": "game",
+      "developer": "Maxis™",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Dec 19, 2008"
+    },
+    {
+      "appId": 17410,
+      "name": "Mirror's Edge™",
+      "type": "game",
+      "developer": "DICE",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Jan 14, 2009"
+    },
+    {
+      "appId": 22380,
+      "name": "Fallout: New Vegas",
+      "type": "game",
+      "developer": "Obsidian Entertainment",
+      "publisher": "Bethesda Softworks",
+      "releaseDate": "Oct 19, 2010"
+    },
+    {
+      "appId": 39210,
+      "name": "FINAL FANTASY XIV Online",
+      "type": "game",
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "releaseDate": "Feb 18, 2014"
+    },
+    {
+      "appId": 105600,
+      "name": "Terraria",
+      "type": "game",
+      "developer": "Re-Logic",
+      "publisher": "Re-Logic",
+      "releaseDate": "16 May, 2011"
+    },
+    {
+      "appId": 108600,
+      "name": "Project Zomboid",
+      "type": "game",
+      "developer": "The Indie Stone",
+      "publisher": "The Indie Stone",
+      "releaseDate": "Nov 8, 2013"
+    },
+    {
+      "appId": 218620,
+      "name": "PAYDAY 2",
+      "type": "game",
+      "developer": "OVERKILL - a Starbreeze Studio.",
+      "publisher": "Starbreeze Entertainment",
+      "releaseDate": "Aug 13, 2013"
+    },
+    {
+      "appId": 230410,
+      "name": "Warframe",
+      "type": "game",
+      "developer": "Digital Extremes",
+      "publisher": "Digital Extremes",
+      "releaseDate": "Mar 25, 2013"
+    },
+    {
+      "appId": 236390,
+      "name": "War Thunder",
+      "type": "game",
+      "developer": "Gaijin Entertainment",
+      "publisher": "Gaijin Network Ltd",
+      "releaseDate": "Aug 15, 2013"
+    },
+    {
+      "appId": 242760,
+      "name": "The Forest",
+      "type": "game",
+      "developer": "Endnight Games Ltd",
+      "publisher": "Endnight Games Ltd",
+      "releaseDate": "Apr 30, 2018"
+    },
+    {
+      "appId": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "type": "game",
+      "developer": "Nicalis, Inc.",
+      "publisher": "Nicalis, Inc.",
+      "releaseDate": "Nov 4, 2014"
+    },
+    {
+      "appId": 251570,
+      "name": "7 Days to Die",
+      "type": "game",
+      "developer": "The Fun Pimps",
+      "publisher": "The Fun Pimps Entertainment LLC",
+      "releaseDate": "Jul 25, 2024"
+    },
+    {
+      "appId": 252490,
+      "name": "Rust",
+      "type": "game",
+      "developer": "Facepunch Studios",
+      "publisher": "Facepunch Studios",
+      "releaseDate": "Feb 8, 2018"
+    },
+    {
+      "appId": 252950,
+      "name": "Rocket League®",
+      "type": "game",
+      "developer": "Psyonix LLC",
+      "publisher": "Psyonix LLC",
+      "releaseDate": "Jul 6, 2015"
+    },
+    {
+      "appId": 264710,
+      "name": "Subnautica",
+      "type": "game",
+      "developer": "Unknown Worlds Entertainment",
+      "publisher": "Unknown Worlds Entertainment",
+      "releaseDate": "Jan 23, 2018"
+    },
+    {
+      "appId": 271590,
+      "name": "Grand Theft Auto V",
+      "type": "game",
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "releaseDate": "14 Apr, 2015"
+    },
+    {
+      "appId": 275850,
+      "name": "No Man's Sky",
+      "type": "game",
+      "developer": "Hello Games",
+      "publisher": "Hello Games",
+      "releaseDate": "Aug 12, 2016"
+    },
+    {
+      "appId": 281990,
+      "name": "Stellaris",
+      "type": "game",
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "releaseDate": "May 9, 2016"
+    },
+    {
+      "appId": 292030,
+      "name": "The Witcher 3: Wild Hunt",
+      "type": "game",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "releaseDate": "19 May, 2015"
+    },
+    {
+      "appId": 294100,
+      "name": "RimWorld",
+      "type": "game",
+      "developer": "Ludeon Studios",
+      "publisher": "Ludeon Studios",
+      "releaseDate": "Oct 17, 2018"
+    },
+    {
+      "appId": 317400,
+      "name": "Portal Stories: Mel",
+      "type": "mod",
+      "developer": "Prism Game Studios Ltd.",
+      "publisher": "Prism Game Studios Ltd.",
+      "releaseDate": "Jun 25, 2015"
+    },
+    {
+      "appId": 322170,
+      "name": "Geometry Dash",
+      "type": "game",
+      "developer": "RobTop Games",
+      "publisher": "RobTop Games",
+      "releaseDate": "Dec 22, 2014"
+    },
+    {
+      "appId": 322330,
+      "name": "Don't Starve Together",
+      "type": "game",
+      "developer": "Klei Entertainment",
+      "publisher": "Klei Entertainment",
+      "releaseDate": "Apr 21, 2016"
+    },
+    {
+      "appId": 335300,
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "type": "game",
+      "developer": "FromSoftware, Inc.",
+      "publisher": "Bandai Namco Entertainment",
+      "releaseDate": "Apr 1, 2015"
+    },
+    {
+      "appId": 346110,
+      "name": "ARK: Survival Evolved",
+      "type": "game",
+      "developer": "Studio Wildcard",
+      "publisher": "Studio Wildcard",
+      "releaseDate": "Aug 27, 2017"
+    },
+    {
+      "appId": 346930,
+      "name": "Deadhold",
+      "type": "game",
+      "developer": "Dark Quarry Games",
+      "publisher": "Dark Quarry Games",
+      "releaseDate": "Aug 25, 2017"
+    },
+    {
+      "appId": 367520,
+      "name": "Hollow Knight",
+      "type": "game",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "releaseDate": "Feb 24, 2017"
+    },
+    {
+      "appId": 374320,
+      "name": "DARK SOULS™ III",
+      "type": "game",
+      "developer": "FromSoftware, Inc.",
+      "publisher": "FromSoftware, Inc.",
+      "releaseDate": "Apr 11, 2016"
+    },
+    {
+      "appId": 377160,
+      "name": "Fallout 4",
+      "type": "game",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "releaseDate": "Nov 9, 2015"
+    },
+    {
+      "appId": 381210,
+      "name": "Dead by Daylight",
+      "type": "game",
+      "developer": "Behaviour Interactive",
+      "publisher": "Behaviour Interactive",
+      "releaseDate": "14 Jun, 2016"
+    },
+    {
+      "appId": 413150,
+      "name": "Stardew Valley",
+      "type": "game",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "releaseDate": "26 Feb, 2016"
+    },
+    {
+      "appId": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "Jan 23, 2017"
+    },
+    {
+      "appId": 427520,
+      "name": "Factorio",
+      "type": "game",
+      "developer": "Wube Software LTD.",
+      "publisher": "Wube Software LTD.",
+      "releaseDate": "Aug 14, 2020"
+    },
+    {
+      "appId": 438100,
+      "name": "VRChat",
+      "type": "game",
+      "developer": "VRChat Inc.",
+      "publisher": "VRChat Inc.",
+      "releaseDate": "Feb 1, 2017"
+    },
+    {
+      "appId": 477160,
+      "name": "Human Fall Flat",
+      "type": "game",
+      "developer": "No Brakes Games",
+      "publisher": "Curve Games",
+      "releaseDate": "Jul 22, 2016"
+    },
+    {
+      "appId": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "type": "game",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "releaseDate": "Oct 27, 2016"
+    },
+    {
+      "appId": 526870,
+      "name": "Satisfactory",
+      "type": "game",
+      "developer": "Coffee Stain Studios",
+      "publisher": "Coffee Stain Publishing",
+      "releaseDate": "Sep 10, 2024"
+    },
+    {
+      "appId": 550650,
+      "name": "Black Squad",
+      "type": "game",
+      "developer": "VALOFE",
+      "publisher": "VALOFE",
+      "releaseDate": "Jun 26, 2019"
+    },
+    {
+      "appId": 553850,
+      "name": "HELLDIVERS™ 2",
+      "type": "game",
+      "developer": "Arrowhead Game Studios",
+      "publisher": "PlayStation Publishing LLC",
+      "releaseDate": "Feb 8, 2024"
+    },
+    {
+      "appId": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "type": "game",
+      "developer": "KRAFTON",
+      "publisher": "KRAFTON",
+      "releaseDate": "21 Dec, 2017"
+    },
+    {
+      "appId": 582010,
+      "name": "Monster Hunter: World",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "Aug 8, 2018"
+    },
+    {
+      "appId": 648800,
+      "name": "Raft",
+      "type": "game",
+      "developer": "Redbeet Interactive",
+      "publisher": "Axolot Games",
+      "releaseDate": "Jun 20, 2022"
+    },
+    {
+      "appId": 812140,
+      "name": "Assassin's Creed® Odyssey",
+      "type": "game",
+      "developer": "Ubisoft Quebec",
+      "publisher": "Ubisoft",
+      "releaseDate": "Oct 5, 2018"
+    },
+    {
+      "appId": 814380,
+      "name": "Sekiro: Shadows Die Twice",
+      "type": "game",
+      "developer": "FromSoftware",
+      "publisher": "Activision",
+      "releaseDate": "21 Mar, 2019"
+    },
+    {
+      "appId": 883710,
+      "name": "Resident Evil 2",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "Jan 24, 2019"
+    },
+    {
+      "appId": 892970,
+      "name": "Valheim",
+      "type": "game",
+      "developer": "Iron Gate AB",
+      "publisher": "Coffee Stain Publishing",
+      "releaseDate": "2 Feb, 2021"
+    },
+    {
+      "appId": 945360,
+      "name": "Among Us",
+      "type": "game",
+      "developer": "Innersloth",
+      "publisher": "Innersloth",
+      "releaseDate": "Nov 16, 2018"
+    },
+    {
+      "appId": 960090,
+      "name": "Bloons TD 6",
+      "type": "game",
+      "developer": "Ninja Kiwi",
+      "publisher": "Ninja Kiwi",
+      "releaseDate": "Dec 17, 2018"
+    },
+    {
+      "appId": 976730,
+      "name": "Halo: The Master Chief Collection",
+      "type": "game",
+      "developer": "343 Industries",
+      "publisher": "Xbox Game Studios",
+      "releaseDate": "Dec 3, 2019"
+    },
+    {
+      "appId": 990080,
+      "name": "Hogwarts Legacy",
+      "type": "game",
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "releaseDate": "Feb 10, 2023"
+    },
+    {
+      "appId": 1086940,
+      "name": "Baldur's Gate 3",
+      "type": "game",
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "releaseDate": "3 Aug, 2023"
+    },
+    {
+      "appId": 1091500,
+      "name": "Cyberpunk 2077",
+      "type": "game",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "releaseDate": "10 Dec, 2020"
+    },
+    {
+      "appId": 1145350,
+      "name": "Hades II",
+      "type": "game",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "releaseDate": "Sep 25, 2025"
+    },
+    {
+      "appId": 1145360,
+      "name": "Hades",
+      "type": "game",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "releaseDate": "Sep 17, 2020"
+    },
+    {
+      "appId": 1172470,
+      "name": "Apex Legends™",
+      "type": "game",
+      "developer": "Respawn",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Nov 4, 2020"
+    },
+    {
+      "appId": 1172620,
+      "name": "Sea of Thieves: 2026 Edition",
+      "type": "game",
+      "developer": "Rare Ltd",
+      "publisher": "Xbox Game Studios",
+      "releaseDate": "Jun 3, 2020"
+    },
+    {
+      "appId": 1174180,
+      "name": "Red Dead Redemption 2",
+      "type": "game",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "releaseDate": "5 Nov, 2019"
+    },
+    {
+      "appId": 1196590,
+      "name": "Resident Evil Village",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "May 6, 2021"
+    },
+    {
+      "appId": 1238810,
+      "name": "Battlefield™ V",
+      "type": "game",
+      "developer": "DICE",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Oct 22, 2020"
+    },
+    {
+      "appId": 1238840,
+      "name": "Battlefield™ 1",
+      "type": "game",
+      "developer": "DICE",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Jun 11, 2020"
+    },
+    {
+      "appId": 1240440,
+      "name": "Halo Infinite",
+      "type": "game",
+      "developer": "343 Industries",
+      "publisher": "Xbox Game Studios",
+      "releaseDate": "Nov 15, 2021"
+    },
+    {
+      "appId": 1245620,
+      "name": "Elden Ring",
+      "type": "game",
+      "developer": "FromSoftware",
+      "publisher": "Bandai Namco Entertainment",
+      "releaseDate": "24 Feb, 2022"
+    },
+    {
+      "appId": 1259420,
+      "name": "Days Gone",
+      "type": "game",
+      "developer": "Bend Studio",
+      "publisher": "PlayStation Publishing LLC",
+      "releaseDate": "May 17, 2021"
+    },
+    {
+      "appId": 1272080,
+      "name": "PAYDAY 3",
+      "type": "game",
+      "developer": "Starbreeze Studios",
+      "publisher": "Starbreeze Entertainment",
+      "releaseDate": "Sep 21, 2023"
+    },
+    {
+      "appId": 1326470,
+      "name": "Sons Of The Forest",
+      "type": "game",
+      "developer": "Endnight Games Ltd",
+      "publisher": "Newnight ",
+      "releaseDate": "Feb 22, 2024"
+    },
+    {
+      "appId": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "Jan 12, 2022"
+    },
+    {
+      "appId": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "type": "game",
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "releaseDate": "Jun 17, 2022"
+    },
+    {
+      "appId": 1517290,
+      "name": "Battlefield™ 2042",
+      "type": "game",
+      "developer": "DICE",
+      "publisher": "Electronic Arts",
+      "releaseDate": "Nov 19, 2021"
+    },
+    {
+      "appId": 1551360,
+      "name": "Forza Horizon 5",
+      "type": "game",
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios",
+      "releaseDate": "9 Nov, 2021"
+    },
+    {
+      "appId": 1623730,
+      "name": "Palworld",
+      "type": "game",
+      "developer": "Pocketpair",
+      "publisher": "Pocketpair",
+      "releaseDate": "19 Jan, 2024"
+    },
+    {
+      "appId": 1794680,
+      "name": "Vampire Survivors",
+      "type": "game",
+      "developer": "poncle",
+      "publisher": "poncle",
+      "releaseDate": "Oct 20, 2022"
+    },
+    {
+      "appId": 1817070,
+      "name": "Marvel’s Spider-Man Remastered",
+      "type": "game",
+      "developer": "Insomniac Games",
+      "publisher": "PlayStation Publishing LLC",
+      "releaseDate": "Aug 12, 2022"
+    },
+    {
+      "appId": 1817190,
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "type": "game",
+      "developer": "Insomniac Games",
+      "publisher": "PlayStation Publishing LLC",
+      "releaseDate": "Nov 18, 2022"
+    },
+    {
+      "appId": 1868140,
+      "name": "DAVE THE DIVER",
+      "type": "game",
+      "developer": "MINTROCKET",
+      "publisher": "MINTROCKET",
+      "releaseDate": "Jun 28, 2023"
+    },
+    {
+      "appId": 1938090,
+      "name": "Call of Duty®",
+      "type": "game",
+      "developer": "Treyarch",
+      "publisher": "Activision",
+      "releaseDate": "Oct 27, 2022"
+    },
+    {
+      "appId": 1966720,
+      "name": "Lethal Company",
+      "type": "game",
+      "developer": "Zeekerss",
+      "publisher": "Zeekerss",
+      "releaseDate": "Oct 23, 2023"
+    },
+    {
+      "appId": 2050650,
+      "name": "Resident Evil 4",
+      "type": "game",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "releaseDate": "Mar 23, 2023"
+    },
+    {
+      "appId": 2073850,
+      "name": "THE FINALS",
+      "type": "game",
+      "developer": "Embark Studios",
+      "publisher": "Embark Studios",
+      "releaseDate": "Dec 7, 2023"
+    },
+    {
+      "appId": 2358720,
+      "name": "Black Myth: Wukong",
+      "type": "game",
+      "developer": "Game Science",
+      "publisher": "Game Science",
+      "releaseDate": "Aug 19, 2024"
+    },
+    {
+      "appId": 2379780,
+      "name": "Balatro",
+      "type": "game",
+      "developer": "LocalThunk",
+      "publisher": "Playstack",
+      "releaseDate": "Feb 20, 2024"
+    }
+  ]
+}
