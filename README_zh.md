@@ -4,6 +4,7 @@
 [![Games Indexed](https://img.shields.io/badge/收录游戏-99%2B%20热门大作-10b981?style=for-the-badge)](https://steamtools.games/zh/games)
 [![OpenAPI 3.1](https://img.shields.io/badge/开放接口-OpenAPI%203.1-8b5cf6?style=for-the-badge)](https://steamtools.games/zh/developers)
 [![License](https://img.shields.io/badge/开源协议-MIT-amber?style=for-the-badge)](LICENSE)
+[![雷神加速器](https://img.shields.io/badge/免费福利-50h雷神加速器-orange?style=for-the-badge&logo=rocket)](https://www.leigod.com/activitys/exchangeWordOfCommand.html)
 [![Discord](https://img.shields.io/badge/官方社区-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/FDKpJu5zgT)
 
 本开源仓库为 **SteamTools (Watt Toolkit)** 提供最新热门游戏清单数据与自动化 Manifest / Lua 生成器支持。支持一键生成纯净的 `.lua` 脚本、`key.vdf` 密钥与游戏清单文件。
@@ -32,6 +33,15 @@
 2. **下载文件包**：点击 **下载 ZIP**，获取包含 `{appId}_public.lua`、`key.vdf` 及说明文档的完整包；
 3. **放置文件**：将 `.lua` 与 `key.vdf` 放入 SteamTools 根目录；
 4. **重启客户端**：重启 SteamTools 与 Steam，游戏即可在库中加载。
+
+---
+
+## 🎁 玩家联机与网络加速福利
+
+国内直接访问 Steam 社区、创意工坊或下载游戏常遇 101/105 错误与断流限速，推荐使用**雷神加速器**：
+* **按分钟计费、不用随时可暂停**，告别月卡浪费，Steam 玩家必备；
+* 打开雷神加速器客户端或前往 [官方网页兑换入口](https://www.leigod.com/activitys/exchangeWordOfCommand.html)；
+* 输入专属口令：**`STEAMTOOLS`**，即可免费领取 **50 小时** 体验时长与充值优惠券！
 
 ---
 

@@ -4,6 +4,7 @@
 [![Games Indexed](https://img.shields.io/badge/Games%20Indexed-99%2B%20Popular%20Titles-10b981?style=for-the-badge)](https://steamtools.games/games)
 [![OpenAPI 3.1](https://img.shields.io/badge/REST%20API-OpenAPI%203.1-8b5cf6?style=for-the-badge)](https://steamtools.games/developers)
 [![License](https://img.shields.io/badge/License-MIT-amber?style=for-the-badge)](LICENSE)
+[![GearUP Booster](https://img.shields.io/badge/Steam%20Booster-GearUP%20Free%20Download-0ea5e9?style=for-the-badge&logo=speedtest)](https://aff.gearupglobal.com/product/download/KTeQ719IlU3u)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/FDKpJu5zgT)
 
 An open-source directory and automated manifest generator for **SteamTools (Watt Toolkit)**. Generate clean `.lua` scripts, `key.vdf` depot keys, and application manifests for any Steam game.
@@ -32,6 +33,14 @@ An open-source directory and automated manifest generator for **SteamTools (Watt
 2. **Download Package**: Click **Download ZIP** to receive `{appId}_public.lua`, `key.vdf`, and setup guide.
 3. **Place Files**: Copy `.lua` and `key.vdf` into your SteamTools install directory.
 4. **Restart Client**: Launch SteamTools / Steam — the game will appear in your library ready for synchronization.
+
+---
+
+## ⚡ Recommended Network Optimizer
+
+Facing Steam Connection Errors (101/105) or slow manifest downloads?
+* We recommend **[GearUP Game Booster](https://aff.gearupglobal.com/product/download/KTeQ719IlU3u)** to establish low-latency routes, unblock Steam edge servers, and accelerate game downloads up to 5x.
+* [Download GearUP Booster for Free (No Credit Card Required) →](https://aff.gearupglobal.com/product/download/KTeQ719IlU3u)
 
 ---
 
